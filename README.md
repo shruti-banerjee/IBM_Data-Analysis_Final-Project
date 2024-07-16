@@ -1,9 +1,9 @@
 # IBM_Data-Analysis_Final-Project
 IBM Data Analyst Professional Capstone project
 
-Analysis Dashboard Link: 
+Analysis Dashboard images is given in the later part.
 
-Project Presentaion Link: 
+Project Presentaion is uploaded as ppt
 
 
 In this project, assuming myself as the Data Analyst for the company, I undertook the tasks of collecting data from multiple sources, performing exploratory data analysis, data wrangling and preparation, statistical analysis and mining the data, creating charts and plots to visualize data, and building an interactive dashboard using IBM Cognos Analytics.
